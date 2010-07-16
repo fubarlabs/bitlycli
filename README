@@ -1,0 +1,16 @@
+#
+# Bitly  CLI test code with login, apikey
+# By Rick Anderson rick.rickanderson@gmail.com inspired by the Bit.ly Hackathon on July 14th, 2010
+# Feel free to fork or add
+
+This library depends on the bitly_api package from here:
+http://github.com/bitly/bitly-api-python
+
+Install it using the following:
+pip install -e git://github.com/bitly/bitly-api-python.git#egg=bitly_api
+
+Addtional depenecy is argparse. Argparse is part of Python 2.7.
+http://code.google.com/p/argparse/
+
+sudo apt-get install python-argparse
+
